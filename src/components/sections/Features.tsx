@@ -14,7 +14,7 @@ export function Features() {
                 Built for Entrepreneurs Who Want to Protect and Scale Smarter
               </h2>
               <p className="font-body text-lg text-brand-white">
-                That's why I created Legalnar™, a new on-demand webinar series built for entrepreneurs, creators, and business owners who want to protect and scale smarter.
+                That's why I created Legalnar™, a new on-demand webinar series built for entrepreneurs, creators, and business owners who want the legal knowledgeto protect and scale smarter.
               </p>
             </div>
           </div>

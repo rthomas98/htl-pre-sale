@@ -17,7 +17,7 @@ export function Hero() {
             </h2>
             <div className="ml-[7.5%]">
               <p className="font-body text-lg text-brand-black mb-4 font-medium">
-                Be the first to experience my new Legalnar™, gain exclusive legal insights, and help shape what's next.
+                Be the first to experience my new Legalnar™: "Protecting Your Brand in the Digital Age," gain exclusive legal insights, and help shape what's next.
               </p>
               <p className="font-body text-base text-brand-black/80">
                 Your brand is vulnerable—online impersonators, AI content theft, domain hijacking, and unregistered trademarks can cost your business big time.
